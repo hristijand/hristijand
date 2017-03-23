@@ -1,0 +1,73 @@
+[33mcommit 15b64782429b154d73c307652b23c663caed342e[m
+Merge: 95a2e92 eae6e39
+Author: hristijand <hristijan.dimovski@hotmail.com>
+Date:   Thu Mar 23 01:29:25 2017 +0100
+
+    Merge branch 'admin'
+
+[33mcommit 95a2e921b0532339b1a552835548bd976a41ca17[m
+Author: hristijand <hristijan.dimovski@hotmail.com>
+Date:   Thu Mar 23 01:28:30 2017 +0100
+
+    Added 2 txt files on master
+
+[33mcommit eae6e39167d163c6ffbada30b436f244d98e0dff[m
+Author: hristijand <hristijan.dimovski@hotmail.com>
+Date:   Thu Mar 23 01:26:45 2017 +0100
+
+    Added 2 txt files
+
+[33mcommit a852055e2913766b1820cc4e2432f41acbcf5688[m
+Author: hristijand <hristijan.dimovski@hotmail.com>
+Date:   Thu Mar 23 01:15:57 2017 +0100
+
+    Created new txt file
+
+[33mcommit 07e5454183a22ac3225ddaa3855f62054cd94ba1[m
+Merge: c51b58d 822c0a5
+Author: hristijand <hristijan.dimovski@hotmail.com>
+Date:   Thu Mar 23 01:01:10 2017 +0100
+
+    Merge branch 'master' of https://github.com/hristijand/hristijand
+
+[33mcommit c51b58d6d3140b78fd653e7452df0bba6d645184[m
+Author: hristijand <hristijan.dimovski@hotmail.com>
+Date:   Thu Mar 23 00:44:33 2017 +0100
+
+    Modify TXT & add forgotten.txt.
+
+[33mcommit 822c0a5e340d1a20bb856256ff4ac9be5e33ca45[m
+Author: hristijand <hristijan.dimovski@hotmail.com>
+Date:   Thu Mar 23 00:44:33 2017 +0100
+
+    Modified TXT
+
+[33mcommit 2c0425a318044b62d9f2855990c6f446c47fc93b[m
+Author: Hristijan Dimovski <Hristijan Dimovski>
+Date:   Thu Mar 23 00:19:44 2017 +0100
+
+    new branch
+
+[33mcommit 3ebc8a4f55bbab3998e04823ec6da67288333810[m
+Author: hristijand <hristijan.dimovski@hotmail.com>
+Date:   Wed Mar 22 22:58:09 2017 +0100
+
+    Delete hristijand IO student
+
+[33mcommit b97f7fb13d59df74e4d9a18291b7d920721f0562[m
+Author: hristijand <hristijan.dimovski@hotmail.com>
+Date:   Wed Mar 22 22:56:37 2017 +0100
+
+    Create hristijand IO student
+
+[33mcommit 06034aab5e06751359b04e89cf255bb641b378f6[m
+Author: Hristijan Dimovski <Hristijan Dimovski>
+Date:   Wed Mar 22 22:54:15 2017 +0100
+
+    first changes
+
+[33mcommit a8fc67a76b0a16cc05d00b585e2d295681f10191[m
+Author: Hristijan Dimovski <Hristijan Dimovski>
+Date:   Wed Mar 22 21:22:33 2017 +0100
+
+    my first commit
